@@ -1,6 +1,11 @@
 # GenAI Platform
 
-Seabird has developed several use cases that implements Generative AI, here are some of them:
+
+Seabird has developped a GenAI platform providing a secure and ad-hoc way to use generative AI: 
+
+<a href="https://chatbot.ai.seabird-innovation.com" target="_blank">https://chatbot.ai.seabird-innovation.com</a>
+
+Some of the use cases are directly available here (work in progress):
 <hr class="solid">
 
 <div class="flex-container">
@@ -32,7 +37,7 @@ Seabird has developed several use cases that implements Generative AI, here are 
 <hr class="solid">
 
 <section class="flex-section">
-    <div class="card">
+    <div class="card inactive">
         <a class="card" href="">
             <div class="container">
                   <img src="/img/sas.png" alt="sas" width="300"/>
@@ -41,7 +46,7 @@ Seabird has developed several use cases that implements Generative AI, here are 
             </div>
         </a>
     </div>
-    <div class="card">
+    <div class="card inactive">
        <a class="card" href="">
             <div class="container">
                   <img src="/img/seabird-logo.png" alt="sb" width="300"/>
@@ -64,7 +69,7 @@ Seabird has developed several use cases that implements Generative AI, here are 
             </div>
         </a>
     </div>
-    <div class="card">
+    <div class="card inactive">
        <a class="card" href="">
             <div class="container">
                   <img src="/img/dora.png" alt="dora" width="300"/>
