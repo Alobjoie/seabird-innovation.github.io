@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vidéo WebM</title>
+    <style>
+      html, body {
+        margin: 0; /* Supprime les marges par défaut */
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+      }
+      .video-container {
+        width: 100vw; /* Pleine largeur de la fenêtre */
+        height: 100vh; /* Pleine hauteur de la fenêtre */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: black; /* Fond noir pour éviter les bandes blanches */
+      }
+      /* Style de la vidéo */
+      video {
+        max-width: 100%; /* Ne dépasse jamais la largeur de la fenêtre */
+        max-height: 100%; /* Ne dépasse jamais la hauteur de la fenêtre */
+      }
+    </style>
+</head>
+<body>
+<div class="video-container">
+    <video controls>
+        <source src="/img/demo-axa.webm" type="video/webm"/>
+        Votre navigateur ne supporte pas la balise vidéo.
+    </video>
+</div>
+
+</body>
+</html>

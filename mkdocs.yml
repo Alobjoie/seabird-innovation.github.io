@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Tech Radar: "/tech-radar"
   - GenAI: genai-usecases.md
+  - DemoChatbot(preview): "/chatbot-demo"
 
 theme:
   name: material
