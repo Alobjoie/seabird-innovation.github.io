@@ -1,9 +1,9 @@
 /*extra css to customize material mkdocs theme*/
 
 :root {
-  --md-primary-fg-color:        #e41434;
-  --md-primary-fg-color--light: #e41434;
-  --md-primary-fg-color--dark:  #e41434;
+  --md-primary-fg-color:        #95D3F1;
+  --md-primary-fg-color--light: #95D3F1;
+  --md-primary-fg-color--dark:  #95D3F1;
 }
 
 /* Solid border */
